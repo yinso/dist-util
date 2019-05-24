@@ -1,6 +1,6 @@
 {
   "name": "dist-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish npm package with dist as the root folder.",
   "main": "./dist/lib/dist-util",
   "typings": "./dist/lib/dist-util.d.ts",
